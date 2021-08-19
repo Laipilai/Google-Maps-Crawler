@@ -1,3 +1,2 @@
 # Google-Maps-Crawler
-Crawling stores information from Google Maps API
-Including restaurant, bar, bakery, and coffee shop
+Crawling stores information including restaurant, bar, bakery, and coffee shop from Google Maps API
