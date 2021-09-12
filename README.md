@@ -10,7 +10,7 @@ Google Map Data Crawler based on API.
 :rocket: This crawler serves as data collection tool for Financial Industry in prioritizing business development plan.
 
 ## Problem Definition
-![](https://i.imgur.com/VsDOmGv.png)
+![](https://i.imgur.com/VsDOmGv.png width="375")
 
 ## Data Cleaning and Processing
 ![](https://i.imgur.com/OXChW9t.png)
