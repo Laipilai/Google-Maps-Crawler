@@ -7,10 +7,12 @@ Google Map Data Crawler based on API.
 - The region is limited to Taipei City, Taiwan.
 
 ## Objective
+:::info
 :rocket: This crawler serves as data collection tool for Financial Industry in prioritizing business development plan.
+:::
 
 ## Problem Definition
-![](https://i.imgur.com/VsDOmGv.png width="375")
+![](https://i.imgur.com/VsDOmGv.png)
 
 ## Data Cleaning and Processing
 ![](https://i.imgur.com/OXChW9t.png)
